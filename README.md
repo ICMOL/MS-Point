@@ -1,6 +1,9 @@
 # MS-PO1NT
 A Peak Quality Assessment Tool for Untargeted Metabolomics Data Employing Machine Learning
 
+![image](https://github.com/ICMOL/MS-PO1NT/blob/main/demonstrate.png)
+
+
 ## System Requirement
 * [Java SE Runtime Environment 15(or above)](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
   
