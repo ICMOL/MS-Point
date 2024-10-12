@@ -1,8 +1,6 @@
 # MS-PO1NT
 A Peak Quality Assessment Tool for Untargeted Metabolomics Data Employing Machine Learning
 
-![image](https://github.com/ICMOL/MS-PO1NT/blob/main/demonstrate.png)
-
 
 ## System Requirement
 * [Java SE Runtime Environment 15(or above)](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
@@ -11,6 +9,11 @@ A Peak Quality Assessment Tool for Untargeted Metabolomics Data Employing Machin
 
 |parameter|description|
 | ------------- | ------------- |
-|input folder directory| contain the txt file(s) output from MS-Picker|
-|output folder directory| the folder that all analyze results you want to put in|
-|k-fold| "k" for k-fold validation|
+|input_folder_directory| contain the txt file(s) output from MS-Picker|
+|output_folder_directory| the folder that all analyze results you want to put in|
+|k_fold| "k" for k-fold cross-validation|
+
+# How to Use (for ver_1.2.0)
+* java -jar MS-Point k_fold input_folder_directory output_folder_directory
+* The input_folder should only contain the txt files to be analyzed.
+* java -jar MS_Point_v1.2.jar 5 D:\\output_folder D:\\input_folder
