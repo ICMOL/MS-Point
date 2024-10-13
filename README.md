@@ -1,4 +1,4 @@
-# MS-PO1NT
+# MS-Point
 A Peak Quality Assessment Tool for Untargeted Metabolomics Data Employing Machine Learning
 
 
