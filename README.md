@@ -15,4 +15,4 @@ A Peak Quality Assessment Tool for Untargeted Metabolomics Data Employing Machin
 
 # How to Use
 * java -jar MS-Point k_fold input_folder_directory output_folder_directory
-* java -jar MS_Point_v1.2.jar 5 D:\\output_folder D:\\input_folder
+* java -jar MS_Point_v1.2.jar 5 D:\\input_folder D:\\output_folder 
