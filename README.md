@@ -13,7 +13,7 @@ A Peak Quality Assessment Tool for Untargeted Metabolomics Data Employing Machin
 |output_folder_directory| the folder that all analyze results you want to put in|
 |k_fold| "k" for k-fold cross-validation|
 
-# How to Use (for ver_1.2.0)
+# How to Use
 * java -jar MS-Point k_fold input_folder_directory output_folder_directory
 * The input_folder should only contain the txt files to be analyzed.
 * java -jar MS_Point_v1.2.jar 5 D:\\output_folder D:\\input_folder
