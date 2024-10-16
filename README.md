@@ -32,8 +32,8 @@ MS-Picker - MS-Point - MS-Aligner - DeNox
 
 |parameter|description|
 | ------------- | ------------- |
-|input_folder_directory| contain the txt file(s) output from MS-Picker|
-|output_folder_directory| the folder that all analyze results you want to put in|
+|input_folder_directory| The location of txt files (output from MS-Picker) to be processed.|
+|output_folder_directory| The location of output files.|
 |k_fold| "k" for k-fold cross-validation|
 
 # How to Use
