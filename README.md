@@ -1,6 +1,9 @@
 # MS-Point
 A Peak Quality Assessment Tool for Untargeted Metabolomics Data Employing Machine Learning
 
+![image](https://github.com/ICMOL/MS-Point/blob/main/ms-point_workflow.png)
+Figure 1. The workflow of MS-Point.
+
 
 ## System Requirement
 * [Java SE Runtime Environment 15(or above)](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
