@@ -15,9 +15,9 @@ MS-Point is a cross-platform, command-line tool developed in Java, designed to e
 |intensity slope (SL)| |
 |signal-to-noise ratio (SNR)| |
 |sharpness (SP)| |
-|peak significance level (PSL)| the ratio between the mean intensity of data points near the peak apex and the mean intensity of data points near the two boundaries.|
+|peak significance level (PSL)| The ratio between the mean intensity of data points near the peak apex and the mean intensity of data points near the two boundaries.|
 |symmetry (SM)| |
-|triangle peak area similarity ratio (TPASR)| provides an index for the proximity of the detected real peak and the triangle peak connected by the apex and two boundaries.|
+|triangle peak area similarity ratio (TPASR)|Pprovides an index for the proximity of the detected real peak and the triangle peak connected by the apex and two boundaries.|
 |zig-zag index (ZZ)| Evaluate the zigzag degree of the extracted EIC.|
 |apex boundary ratio (ABR)| |
 
