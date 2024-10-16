@@ -5,9 +5,10 @@ Metabolomics investigates the complete set of small molecules within a biologica
 MS-Point is a cross-platform, command-line tool developed in Java, designed to ensure broad compatibility and ease of use. It will automatically label the input data and generates the training dataset. Logistic regression is then applied using a five-fold cross-validation approach, utilizing nine quality metrics as features to ultimately produce a quality score ranging from -1 to 1 for each peak. A higher quality score indicates better quality of the detected features.
     
   ![image](https://github.com/ICMOL/MS-Point/blob/main/ms-point_workflow.png)
-        Figure 1. The workflow of MS-Point, including automatically generating training dataset and producing quality score with logistic regression.
+  Figure 1. The workflow of MS-Point, including automatically generating training dataset and producing quality score with logistic regression.Nine quality metrics include Shapiro-Wilk (SW) test, intensity slope (SL), signal-to-noise ratio (SNR), sharpness (SP), peak significance level (PSL), symmetry (SM), triangle peak area similarity ratio (TPASR), zig-zag index (ZZ), and apex boundary ratio (ABR).
+
         
-## nine quality metrics
+、
 
 
 ## System Requirement
