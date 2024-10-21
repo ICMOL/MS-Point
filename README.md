@@ -15,14 +15,14 @@ MS-Picker - MS-Point - MS-Aligner - DeNox
 |metric|description|
 | ------------- | ------------- |
 |Shapiro-Wilk (SW) test| Measuring the normality of an EIC. It outputs a statistic between 0 and 1, where values closer to 1 indicate a closer fit to a normal distribution.|
-|intensity slope (SL)| |
-|signal-to-noise ratio (SNR)| |
-|sharpness (SP)| |
-|peak significance level (PSL)| The ratio between the mean intensity of data points near the peak apex and the mean intensity of data points near the two boundaries.|
-|symmetry (SM)| |
-|triangle peak area similarity ratio (TPASR)|Pprovides an index for the proximity of the detected real peak and the triangle peak connected by the apex and two boundaries.|
-|zig-zag index (ZZ)| Evaluate the zigzag degree of the extracted EIC.|
-|apex boundary ratio (ABR)| |
+|intensity slope (SL)| Measuring the normality of an EIC. It outputs a statistic between 0 and 1, where values closer to 1 indicate a closer fit to a normal distribution.|
+|signal-to-noise ratio (SNR)| Measuring the ratio of the EIC apex intensity to the background noise level. Higher SNR values indicate a clearer separation between the signal of interest and the noise, suggesting a more reliable or prominent peak.|
+|sharpness (SP)| Measuring the steepness of an EIC. The higher the sharpness, the better the peak quality.|
+|peak significance level (PSL)| Measuring the ratio of the average intensity of points near an EIC apex and the average intensity of points near the EIC boundaries. The higher the peak significance level, the better the peak quality.|
+|symmetry (SM)| Measuring the intensity similarity between the left and right sides of signals in an EIC. The similarity of 1 indicates a better peak quality.|
+|triangle peak area similarity ratio (TPASR)| Measuring the proximity between the triangle area and the area enclosed by the peak apex and the two boundaries. A TPASR value close to 0 indicates a better peak quality.|
+|zig-zag index (ZZ)| Evaluating the jaggedness of an EIC. A score of 0 indicates a smooth peak shape, while a score approaching 1 indicates a noisy peak shape. A lower Zig-zag index indicates higher peak quality.|
+|apex boundary ratio (ABR)| Evaluating peak integrity by comparing the intensity at the peak apex to that at the peak boundaries. The lower the ratio, the better the peak quality.|
 
 
 # System Requirement
