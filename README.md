@@ -14,7 +14,7 @@ MS-Picker - MS-Point - MS-Aligner - DeNox
  
 |metric|description|
 | ------------- | ------------- |
-|Shapiro-Wilk (SW) test| |
+|Shapiro-Wilk (SW) test| Measuring the normality of an EIC. It outputs a statistic between 0 and 1, where values closer to 1 indicate a closer fit to a normal distribution.|
 |intensity slope (SL)| |
 |signal-to-noise ratio (SNR)| |
 |sharpness (SP)| |
