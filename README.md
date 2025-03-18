@@ -14,7 +14,7 @@ MS-Point is a cross-platform command-line tool developed in Java, designed for b
 |metric|description|
 | ------------- | ------------- |
 |Shapiro-Wilk (SW) test| Measuring the normality of an EIC. It outputs a statistic between 0 and 1, where values closer to 1 indicate a closer fit to a normal distribution.|
-|intensity slope (SL)| Measuring the normality of an EIC. It outputs a statistic between 0 and 1, where values closer to 1 indicate a closer fit to a normal distribution.|
+|intensity slope (SL)| Measuring the change in the intensity gradient of an EIC. Slopes can range from 0 to positive values, indicating the rate of change in signal intensity over time.|
 |signal-to-noise ratio (SNR)| Measuring the ratio of the EIC apex intensity to the background noise level. Higher SNR values indicate a clearer separation between the signal of interest and the noise, suggesting a more reliable or prominent peak.|
 |sharpness (SP)| Measuring the steepness of an EIC. The higher the sharpness, the better the peak quality.|
 |peak significance level (PSL)| Measuring the ratio of the average intensity of points near an EIC apex and the average intensity of points near the EIC boundaries. The higher the peak significance level, the better the peak quality.|
