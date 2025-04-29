@@ -37,4 +37,8 @@ MS-Point is a cross-platform command-line tool developed in Java, designed for b
 
 # How to Use
 * java -jar MS-Point k_fold input_folder_directory output_folder_directory
-* java -jar MS_Point_v1.2.jar 5 D:\\input_folder D:\\output_folder 
+* java -jar MS_Point_v1.2.jar 5 D:\\input_folder D:\\output_folder
+
+
+# Data for Test
+* [a standard metabolite mixture] (https://github.com/ICMOL/DeNox/releases/tag/v1.0.0)
